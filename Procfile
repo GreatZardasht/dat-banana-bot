@@ -1,1 +1,1 @@
-worker: python dat-banana-bot
+worker: python bot.py
